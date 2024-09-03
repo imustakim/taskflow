@@ -49,18 +49,7 @@ Follow these steps to set up the project locally:
    ddev start
    ```
 
-5. **Set Up the Environment Variables:**
-
-   Create a `.env` file in the project root directory and add your database credentials:
-
-   ```dotenv
-   DB_HOST=db
-   DB_NAME=taskflow
-   DB_USER=dbuser
-   DB_PASS=dbpass
-   ```
-
-6. **Access the Application:**
+5. **Access the Application:**
 
    Open your web browser and go to:
 
