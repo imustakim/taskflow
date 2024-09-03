@@ -1,31 +1,13 @@
 ### .gitignore File
 
-Create a `.gitignore` file in the root of your project and include the following contents:
-
 ```gitignore
 # Ignore Composer dependencies
 /vendor/
 
-# Environment files
-.env
-.env.local
-
-# ddev generated files
-.ddev/*.yaml
-.ddev/docker-compose.*
-.ddev/commands/
-
 # Ignore Mac system files
 .DS_Store
-
-# Ignore log files
-*.log
 
 # Ignore database dumps
 *.sql
 *.sql.gz
 *.sql.zip
-
-# Ignore any compiled code
-*.compiled.php
-*.pyc
