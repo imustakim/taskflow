@@ -64,10 +64,6 @@ Follow these steps to set up the project locally:
 - **Edit a Task:** Click the edit button next to a task to update it.
 - **Delete a Task:** Click the delete button to remove a task.
 
-## Contributing
-
-We welcome contributions! If you'd like to contribute, please fork the repository and create a pull request. For major changes, open an issue first to discuss what you would like to change.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
